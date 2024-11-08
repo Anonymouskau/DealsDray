@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Run Following Commands:
+--flutter clean
+-- flutter pub get
+-- flutter run --release
 ## Getting Started
 
 This project is a starting point for a Flutter application.
