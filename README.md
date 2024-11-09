@@ -1,6 +1,13 @@
 # dealsdray
 
 A new Flutter project.
+<img src="Screenshots/screeshot1%20(8).jpeg">
+<img src="Screenshots/screeshot1%20(7).jpeg">
+<img src="Screenshots/screeshot1%20(6).jpeg">
+<img src="Screenshots/screeshot1%20(5).jpeg">
+<img src="Screenshots/screeshot1%20(4).jpeg">
+<img src="Screenshots/screeshot1%20(3).jpeg">
+<img src="Screenshots/screeshot1%20(2).jpeg">
 <img src="Screenshots/screeshot1%20(1).jpeg">
 Run Following Commands:
 --flutter clean
