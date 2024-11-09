@@ -9,6 +9,7 @@ A new Flutter project.
 <img src="Screenshots/screeshot1%20(3).jpeg">
 <img src="Screenshots/screeshot1%20(2).jpeg">
 <img src="Screenshots/screeshot1%20(1).jpeg">
+<br/>
 Run Following Commands:
 --flutter clean
 -- flutter pub get
